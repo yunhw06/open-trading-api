@@ -1,3 +1,12 @@
+# 과제 제출 안내
+
+교수님께 제출드리는 과제 구현 코드는 본 저장소의 `samsung_auto_trader/` 폴더에 정리되어 있습니다.
+
+본 저장소는 한국투자증권 KIS Open API 샘플 코드 저장소를 기반으로 하고 있으며, 과제에서 직접 구현한 삼성전자 자동매매 프로그램은 기존 샘플 코드와 구분하기 위해 `samsung_auto_trader` 모듈로 별도 구성했습니다.
+
+로그를 확인하려면 다음 경로를 확인하시면 됩니다.
+open-trading-api-new/samsung_auto_trader/logs/trader.log
+
 **[당사에서 제공하는 샘플코드에 대한 유의사항]**
 
 - 샘플 코드는 한국투자증권 Open API(KIS Developers)를 연동하는 예시입니다. 고객님의 개발 부담을 줄이고자 참고용으로 제공되고 있습니다.
