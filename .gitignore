@@ -157,6 +157,11 @@ KIS/
 .master/
 .kis_token*.json
 
+# ===== samsung_auto_trader runtime files =====
+samsung_auto_trader/token_cache.json
+samsung_auto_trader/trader.log
+samsung_auto_trader/.env
+
 # ===== Lean workspace =====
 .lean-workspace/
 
